@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.bulkware.bwcrop" path="/org/bulkware/bwcrop/">
+    <key name="imgpath" type="s">
+      <default>"/home/pulssi/sources/git/bulkware/bwcrop/src/bw.tiff"</default>
+      <summary>Previously open image path</summary>
+      <description>Contains the path to the previously open image file.</description>
+    </key>
+  </schema>
+</schemalist>
